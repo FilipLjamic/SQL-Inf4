@@ -1,2 +1,2 @@
 use FilipLj
-select * from ucenik
+select * from ucenik where id = 5
